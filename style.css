@@ -1,3 +1,9 @@
 table, th, td {
     border: 1px solid black;
 }
+body {
+
+}
+nav, footer {
+    background-color: aqua;
+}
